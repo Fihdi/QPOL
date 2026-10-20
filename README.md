@@ -1,9 +1,9 @@
 # 8hp Quad Pole Phaser
-![](https://github.com/Fihdi/QPOL/blob/main/QPP-Front.png?raw=true)
+![](https://github.com/Fihdi/QPOL/blob/main/QPOL-Front.png?raw=true)
 
 QPOL is an 8hp Eurorack phaser module with four voltage controllable all pass filters. A variety of frequency responses can be achieved by mixing the phase shifted output back to the input signal. Chaining multiple phaser modules together allows for phasing with 4, 8, 12, 16 etc poles.
 
-![](https://github.com/Fihdi/QPOL/blob/main/QPP-BLOCK.png?raw=true)
+![](https://github.com/Fihdi/QPOL/blob/main/QPOL-BLOCK.png?raw=true)
 # IN
 Connect an audio signal to the **IN** jack. The input signal is internally mixed together to the output of the **FDBK** section. This mixed signal is always fed to the input of the four all pass filters and to the **MIX** section, where it is re-combined with the filter output **P4** by a varying degree set by the **MIX** knob
 # SHIFT
