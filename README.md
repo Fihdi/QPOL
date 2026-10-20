@@ -14,6 +14,6 @@ The FDBK attenuverter controls the amount and polarity of feedback from the filt
 
 The **P4** jack directly outputs the fourth stage of the all pass filter core. When chaining multiple modules together to allow for more than four stages of phasing, this output can be used
 
-The **MIX** knob sums the **IN** signal to the filter output **P4** with variable strength. By changing the Jumper on the back of the module from "Direct"
+The **MIX** knob sums the **IN** signal to the filter output **P4** with variable strength. By changing the Jumper on the back of the module from "Direct" to "Mixed" a different input signal is fed to the MIX section. The jumper being in the "Direct" position routes the signal from the **IN** jack to the MIX section as it is. In the "Direct" position, the summed signal of the **IN** jack and the **FDBK** output is fed to the MIX section.
 
 The final output is available at the **OUT** jack.
